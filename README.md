@@ -9,4 +9,4 @@ The given repository consists of a complete data analysis pipeline of the COVID-
 
 The main library used for Visualizations is the **plotly** library along with **matplotlib** and **seaborn**.
 
-The given folder consists of the **.ipynb notebook** consisting of the code, as well as the dataset used for the analysis.
+The complete output can be viewed through the **.html document** attached with the jupyter notebook with all underlying visualizations. The supporting jupyter notebook is attached as well (plotly visualizations cannot be parsed through the repository online, refer to the pertaining .html document mentioned above).
